@@ -1,5 +1,18 @@
 # Changelog
 
+## [5.1.0](https://github.com/stevearc/conform.nvim/compare/v5.0.0...v5.1.0) (2023-12-10)
+
+
+### Features
+
+* ConformInfo shows path to executable ([#244](https://github.com/stevearc/conform.nvim/issues/244)) ([fb9b050](https://github.com/stevearc/conform.nvim/commit/fb9b0500270ba05b89cc27cd8b7762443bcfae22))
+* **prettier:** add `options` for configuring prettier parser based on filetype and extension ([#241](https://github.com/stevearc/conform.nvim/issues/241)) ([8df1bed](https://github.com/stevearc/conform.nvim/commit/8df1bed7b8de9cf40476996fb5ab73ed667aed35))
+
+
+### Bug Fixes
+
+* **formatexpr:** does not fallback to the built-in formatexpr ([#238](https://github.com/stevearc/conform.nvim/issues/238)) ([48bc999](https://github.com/stevearc/conform.nvim/commit/48bc9996ebfe90e7766f46338360f75fd6ecb174))
+
 ## [5.0.0](https://github.com/stevearc/conform.nvim/compare/v4.3.0...v5.0.0) (2023-12-07)
 
 
